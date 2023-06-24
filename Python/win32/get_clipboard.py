@@ -29,7 +29,7 @@ if __name__ == '__main__':
 				else:
 					d.write(f'\n{clip}')
 					# print('written')
-			# print(get_clipboard()) #hello i love youhello i love you
+			# print(get_clipboard()) #
 		except:
 			# time.sleep(10)
 			print('No data in clipboard')

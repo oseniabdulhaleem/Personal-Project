@@ -1,4 +1,2 @@
-
-Python
-example
-also
+get the clipboard data
+and save the input to a file
